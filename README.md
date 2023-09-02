@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fingertips-Lyb
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning Vue2, node
+- 🌱 I’m currently learning Vue, Node, React
 - 📫 How to reach me: [juejin](https://juejin.cn/user/4248971521824168)
 
 <!---
